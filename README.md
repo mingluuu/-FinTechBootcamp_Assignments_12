@@ -12,6 +12,6 @@ This project leverages python 3.7, imbalanced-learn and PyDotPlus libraries. You
 
 conda install -c conda-forge imbalanced-learn conda install -c conda-forge pydotplus
 
-**Usage**
+**Instruction**
 ----
 To use this application simply clone the repository and run credit_risk_resampling.ipynb on your Jupyter Notebook.
